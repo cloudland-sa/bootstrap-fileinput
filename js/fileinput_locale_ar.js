@@ -11,7 +11,7 @@
 (function ($) {
     "use strict";
 
-    $.fn.fileinputLocales['_LANG_'] = {
+    $.fn.fileinputLocales['ar'] = {
         fileSingle: 'ملف',
         filePlural: 'ملفات',
         browseLabel: 'استعراض &hellip;',
